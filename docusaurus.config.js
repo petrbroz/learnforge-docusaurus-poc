@@ -29,6 +29,7 @@ module.exports = {
                 //{ to: '/blog', label: 'Blog', position: 'left' },
                 {
                     type: 'localeDropdown',
+                    position: 'right',
                 },
                 {
                     href: 'https://github.com/facebook/docusaurus',
