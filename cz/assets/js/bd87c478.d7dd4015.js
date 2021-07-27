@@ -1,0 +1,1 @@
+(self.webpackChunklearnforge_docusaurus_poc=self.webpackChunklearnforge_docusaurus_poc||[]).push([[237],{5040:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/learnforge-docusaurus-poc/cz/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/learnforge-docusaurus-poc/cz/blog/tags/hola"}')}}]);

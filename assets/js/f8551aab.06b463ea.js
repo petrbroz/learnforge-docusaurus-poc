@@ -1,0 +1,1 @@
+(self.webpackChunklearnforge_docusaurus_poc=self.webpackChunklearnforge_docusaurus_poc||[]).push([[743],{7574:function(e,u,n){"use strict";n.r(u),n.d(u,{default:function(){return t}});var a=n(7294),r=n(3575);function t(){return a.createElement(r.Z,null,a.createElement("h1",null,"My React page"),a.createElement("p",null,"This is a React page"))}}}]);
