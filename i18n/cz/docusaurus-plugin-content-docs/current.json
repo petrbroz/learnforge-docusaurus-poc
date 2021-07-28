@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Další",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Základní tutoriály",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Extra tutoriály",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  }
+}
